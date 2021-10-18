@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://windforceyang.github.io/blog/
+url: https://ceruleanw.github.io/blog/
 root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,7 +79,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:WindforceYang/blog.git
+  repo: https://github.com/CeruleanW/blog
   branch: master
   
 # Search
