@@ -1,9 +1,11 @@
 ---
 title: 读「万尼亚舅舅」
-tags: '万尼亚舅舅, 契诃夫'
+tags: 
+- 万尼亚舅舅
+- 契诃夫
 copyright: true
 categories:
-  - 书评
+  - 评论
 date: 2022-01-08 23:02:54
 ---
 
