@@ -1,5 +1,5 @@
 ---
-title: 「万尼亚舅舅」
+title: 读「万尼亚舅舅」
 tags: '万尼亚舅舅, 契诃夫'
 copyright: true
 categories:
