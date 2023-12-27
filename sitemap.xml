@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ceruleanw.github.io/blog/2023/12/bc592395946d/</loc>
+    
+    <lastmod>2023-12-27T14:48:50.399Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ceruleanw.github.io/blog/2022/12/eed6e6ffab8d/</loc>
     
     <lastmod>2022-12-09T03:41:02.370Z</lastmod>
@@ -9,14 +16,14 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/categories/index.html</loc>
+    <loc>https://ceruleanw.github.io/blog/tags/index.html</loc>
     
     <lastmod>2022-12-09T03:21:17.529Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/tags/index.html</loc>
+    <loc>https://ceruleanw.github.io/blog/categories/index.html</loc>
     
     <lastmod>2022-12-09T03:21:17.529Z</lastmod>
     
@@ -30,14 +37,21 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2021/12/a3bec8e77ae8/</loc>
+    <loc>https://ceruleanw.github.io/blog/2022/06/fa57c36696f7/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2022/06/fa57c36696f7/</loc>
+    <loc>https://ceruleanw.github.io/blog/2021/10/96e439f4d8f3/</loc>
+    
+    <lastmod>2022-12-09T03:21:17.528Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ceruleanw.github.io/blog/2021/12/a3bec8e77ae8/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
     
@@ -72,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2021/10/96e439f4d8f3/</loc>
+    <loc>https://ceruleanw.github.io/blog/2018/04/13b316c7ead5/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
     
@@ -80,13 +94,6 @@
   
   <url>
     <loc>https://ceruleanw.github.io/blog/2018/04/a2eeca873689/</loc>
-    
-    <lastmod>2022-12-09T03:21:17.528Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ceruleanw.github.io/blog/2018/04/13b316c7ead5/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
     
@@ -107,14 +114,14 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2021/11/dc3ca0cad603/</loc>
+    <loc>https://ceruleanw.github.io/blog/2021/09/96c2a5728c1e/</loc>
     
     <lastmod>2022-12-09T03:21:17.527Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2021/09/96c2a5728c1e/</loc>
+    <loc>https://ceruleanw.github.io/blog/2021/11/dc3ca0cad603/</loc>
     
     <lastmod>2022-12-09T03:21:17.527Z</lastmod>
     
