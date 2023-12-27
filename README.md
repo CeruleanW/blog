@@ -10,10 +10,10 @@ intro: 酒馆里说的都是胡话。
 
 ## Common Commands
 
+- Publish: `./bash-scripts/publish.bash`
 - `hexo new draft <title>`
 - `hexo publish <title>`
 - `hexo deploy`
-- Publish: `./bash-scripts/publish.bash`
 
 ## References
 
