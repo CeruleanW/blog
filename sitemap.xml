@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ceruleanw.github.io/blog/2018/07/b0100a810060/</loc>
+    
+    <lastmod>2023-12-28T00:33:49.874Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ceruleanw.github.io/blog/2023/12/bc592395946d/</loc>
     
-    <lastmod>2023-12-27T23:22:07.810Z</lastmod>
+    <lastmod>2023-12-28T00:32:33.973Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ceruleanw.github.io/blog/2021/09/96c2a5728c1e/</loc>
+    
+    <lastmod>2023-12-28T00:30:58.634Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ceruleanw.github.io/blog/2019/06/d39037039cb5/</loc>
+    
+    <lastmod>2023-12-28T00:29:58.658Z</lastmod>
     
   </url>
   
@@ -16,14 +37,14 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/categories/index.html</loc>
+    <loc>https://ceruleanw.github.io/blog/tags/index.html</loc>
     
     <lastmod>2022-12-09T03:21:17.529Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/tags/index.html</loc>
+    <loc>https://ceruleanw.github.io/blog/categories/index.html</loc>
     
     <lastmod>2022-12-09T03:21:17.529Z</lastmod>
     
@@ -65,13 +86,6 @@
   </url>
   
   <url>
-    <loc>https://ceruleanw.github.io/blog/2018/07/b0100a810060/</loc>
-    
-    <lastmod>2022-12-09T03:21:17.528Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ceruleanw.github.io/blog/2018/04/9aab3f0c5295/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
@@ -103,20 +117,6 @@
     <loc>https://ceruleanw.github.io/blog/2018/05/43c369e2fd5b/</loc>
     
     <lastmod>2022-12-09T03:21:17.528Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ceruleanw.github.io/blog/2019/06/d39037039cb5/</loc>
-    
-    <lastmod>2022-12-09T03:21:17.527Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ceruleanw.github.io/blog/2021/09/96c2a5728c1e/</loc>
-    
-    <lastmod>2022-12-09T03:21:17.527Z</lastmod>
     
   </url>
   
