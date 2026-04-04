@@ -1,0 +1,282 @@
+# ---------------------------------------------------------------
+# Theme Core Configuration Settings
+# See: https://theme-next.js.org/docs/theme-settings/
+# ---------------------------------------------------------------
+
+cache:
+  enable: true
+
+minify: false
+
+# ---------------------------------------------------------------
+# Scheme Settings
+# ---------------------------------------------------------------
+
+scheme: Pisces
+
+darkmode: false
+
+# ---------------------------------------------------------------
+# Site Information Settings
+# ---------------------------------------------------------------
+
+favicon:
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+
+creative_commons:
+  license: by-nc-sa
+  sidebar: false
+  post: false
+  language:
+
+# ---------------------------------------------------------------
+# Menu Settings
+# ---------------------------------------------------------------
+
+menu:
+  home: / || fa fa-home
+  about: /about/ || fa fa-user
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+
+menu_settings:
+  icons: true
+  badges: false
+
+# ---------------------------------------------------------------
+# Sidebar Settings
+# ---------------------------------------------------------------
+
+sidebar:
+  position: left
+  display: post
+  padding: 18
+  offset: 12
+
+avatar:
+  url:
+  rounded: false
+  rotated: false
+
+site_state: true
+
+social_icons:
+  enable: true
+  icons_only: false
+  transition: false
+
+links_settings:
+  icon: fa fa-globe
+  title: Links
+  layout: block
+
+toc:
+  enable: true
+  number: true
+  wrap: false
+  expand_all: false
+  max_depth: 6
+
+# ---------------------------------------------------------------
+# Footer Settings
+# ---------------------------------------------------------------
+
+language_switcher: false
+
+footer:
+  icon:
+    name: fa fa-heart
+    animated: false
+    color: "#ff0000"
+  powered: true
+
+# ---------------------------------------------------------------
+# Post Settings
+# ---------------------------------------------------------------
+
+excerpt_description: true
+read_more_btn: true
+
+post_meta:
+  item_text: true
+  created_at: true
+  updated_at:
+    enable: true
+    another_day: true
+  categories: true
+
+symbols_count_time:
+  separated_meta: true
+  item_text_total: false
+
+tag_icon: false
+
+reward_settings:
+  enable: false
+  animation: false
+
+post_navigation: left
+
+# ---------------------------------------------------------------
+# Custom Page Settings
+# ---------------------------------------------------------------
+
+tagcloud:
+  min: 12
+  max: 30
+  amount: 200
+  orderby: name
+  order: 1
+
+# ---------------------------------------------------------------
+# Misc Theme Settings
+# ---------------------------------------------------------------
+
+text_align:
+  desktop: justify
+  mobile: justify
+
+mobile_layout_economy: false
+
+android_chrome_color: "#222"
+
+codeblock:
+  theme:
+    light: default
+    dark: base16/tomorrow-night
+  prism:
+    light: prism
+    dark: prism-dark
+  copy_button:
+    enable: false
+
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: false
+
+reading_progress:
+  enable: false
+  position: top
+  color: "#37c6c0"
+  height: 3px
+
+bookmark:
+  enable: false
+  color: "#222"
+  save: auto
+
+github_banner:
+  enable: false
+  permalink: https://github.com/yourname
+  title: Follow me on GitHub
+
+# ---------------------------------------------------------------
+# Font Settings
+# ---------------------------------------------------------------
+
+font:
+  enable: false
+  host:
+  global:
+    external: true
+    family: Lato
+    size:
+  title:
+    external: true
+    family:
+    size:
+  headings:
+    external: true
+    family:
+    size:
+  posts:
+    external: true
+    family:
+  codes:
+    external: true
+    family:
+
+# ---------------------------------------------------------------
+# SEO Settings
+# ---------------------------------------------------------------
+
+disable_baidu_transformation: false
+index_with_subtitle: false
+exturl: false
+
+# ---------------------------------------------------------------
+# Third Party Plugins & Services Settings
+# ---------------------------------------------------------------
+
+math:
+  every_page: false
+  mathjax:
+    enable: false
+  katex:
+    enable: false
+    copy_tex: false
+
+pjax: false
+fancybox: false
+mediumzoom: false
+lazyload: false
+pangu: false
+
+quicklink:
+  enable: false
+  home: false
+  archive: false
+  delay: true
+  timeout: 3000
+  priority: true
+
+# ---------------------------------------------------------------
+# Comments Settings
+# ---------------------------------------------------------------
+
+comments:
+  style: tabs
+  active:
+  storage: true
+  lazyload: false
+
+# ---------------------------------------------------------------
+# Search Services
+# ---------------------------------------------------------------
+
+local_search:
+  enable: false
+  trigger: auto
+  top_n_per_article: 1
+  unescape: false
+  preload: false
+
+# ---------------------------------------------------------------
+# Animation Settings
+# ---------------------------------------------------------------
+
+motion:
+  enable: true
+  async: false
+  transition:
+    post_block: fadeIn
+    post_header: fadeInDown
+    post_body: fadeInDown
+    coll_header: fadeInLeft
+    sidebar: fadeInUp
+
+pace:
+  enable: false
+  theme: minimal
+
+# ---------------------------------------------------------------
+# Vendors Settings
+# ---------------------------------------------------------------
+
+vendors:
+  internal: local
+  plugins: jsdelivr
