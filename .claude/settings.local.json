@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout:*)",
+      "Bash(node -e \"try{const p=require\\('/ai-projects/blog/node_modules/hexo/package.json'\\);console.log\\('Installed hexo:',p.version\\)}catch\\(e\\){console.log\\('hexo not installed'\\)}\")",
+      "Bash(node -e \"try{const p=require\\('/ai-projects/blog/node_modules/hexo-theme-next/package.json'\\);console.log\\('Installed next:',p.version\\)}catch\\(e\\){console.log\\('next not installed'\\)}\")",
+      "Bash(npm view:*)",
+      "Bash(git -C /ai-projects/blog submodule status)",
+      "WebFetch(domain:hexo.io)",
+      "Bash(npm install:*)",
+      "Bash(npx hexo:*)",
+      "Bash(pnpm --version)",
+      "Bash(pnpm install *)",
+      "Bash(pnpm exec *)"
+    ]
+  }
+}
