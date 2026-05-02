@@ -2,6 +2,7 @@
   "name": "hexo-site",
   "version": "0.0.1",
   "private": true,
+  "packageManager": "pnpm@10.33.0",
   "hexo": {
     "version": "8.1.1"
   },
