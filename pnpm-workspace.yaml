@@ -1,0 +1,5 @@
+allowBuilds:
+  ejs: true
+  fsevents: true
+  hexo-util: true
+  highlight.js: true
