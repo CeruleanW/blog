@@ -295,3 +295,4 @@ pace:
 vendors:
   internal: local
   plugins: jsdelivr
+  busuanzi: https://dawn-darkness-fea1.ashery-tech.workers.dev/busuanzi.pure.mini.js
